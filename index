@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <style>
+        .imagen-grande {
+            width: 100%;
+            max-width: 1200px; /* tamaño máximo */
+            display: block;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+<style>
+body {
+    background-color: rgb(243, 252, 211);
+}
+</style>
+<img src="1.jpg" class="imagen-grande" alt="imagen">
+<img src="2.jpg" class="imagen-grande" alt="imagen">
+<img src="3.jpg" class="imagen-grande" alt="imagen">
+<img src="4.jpg" class="imagen-grande" alt="imagen">
+<img src="5.jpg" class="imagen-grande" alt="imagen">
+<img src="6.jpg" class="imagen-grande" alt="imagen">
+
+</body>
+</html>
